@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @COANelmejor
+- ⌚️ I have 9+ years of experience coding.
 - 👀 I’m interested in JS/TS Development
 - 🌱 I’m currently learning C# for Unity3D
+- 🎓 Computer Science **Student** at University of the People
 - 📫 coanelmejor@gmail.com
 
 `README in Development`
